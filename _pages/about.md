@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the ECE department at UC San Diego, where I work with Prof.Dinesh Bharadia in the Wireless Communication, Sensing and Networking Group([WCSNG](https://wcsng.ucsd.edu/) )
+I am a first-year Ph.D. student in the ECE department at UC San Diego, where I work with Prof.Dinesh Bharadia in the Wireless Communication, Sensing and Networking Group ([WCSNG](https://wcsng.ucsd.edu/))
 Prior to UCSD, I received my B.Sc. in Electrical Engineering from University of Tehran.
 
 ------
